@@ -1,1 +1,1 @@
-## This is the Sibo's file for BIA660 Project.
+## This is the Sibo's file directory for BIA660 Project.
