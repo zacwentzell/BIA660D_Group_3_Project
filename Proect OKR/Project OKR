@@ -1,1 +1,57 @@
 The following is the distribution of work, deadlines for each part of the work, and goals to be delivered:
+
+Objective: Research process for project
+    Person /People Assigned: ALL
+    Due date: April 15th
+    Deliverable(s): References to code snippets
+                    tutorial(s)
+                    relevant processes
+                    (Posted into Slack chat)
+
+Objective: Scrape for data
+    Person / People Assigned:
+    Due date: May 6th
+    Deliverable(s): script that is able to scrape from iMDB for:
+                        budget
+                        gross profit
+                        rating
+                        director(s)
+                        writer(s)
+                        aspect ratio
+                        description
+                        review(s)
+                        main actor(s)
+                        etc:
+                    script that is able to scrape from Facebook for:
+                        director's likes
+                        movie page's likes
+                        actor(s)'s likes
+                    cript that creates a data frame with the scraped data and subsequently converts it to a .csv file
+
+Objective: Analyze data
+    Person / People Assigned: Arthur
+    Due date: May 6th
+    Deliverable(s): script that is able to analyze sentiments found in written descriptions of the film and reviews
+                        returns if sentiment is overwhelmingly positive or negative
+                        if sentiment doesn't match score, mark comment as sarcasm
+                    correlation
+                    regression
+                        linear regression
+                        step-wise regression
+                        ANOVA
+                        MANOVA
+                    visualisations
+                        regression residual plots
+                        heat map
+                        scatter plots of relevant factors
+                    causation analysis
+                        OFAT
+                        Principle analysis
+
+Objective: Present data
+    Person / People Assigned: ALL
+    Due date: May 6th
+    Deliverable(s): Powerpoint presentation
+
+The final output will be a presentation that displays that the code functions as intended along with the corresponding analysis
+of the scraped factors.
