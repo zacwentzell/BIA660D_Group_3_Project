@@ -1,17 +1,19 @@
 The following is the distribution of work, deadlines for each part of the work, and goals to be delivered:
 
-Objective: Research process for project
+Objective: Research process for project and summarize the result in a google doc
     Person /People Assigned: ALL
-    Due date: April 15th
-    Deliverable(s): References to code snippets
-                    tutorial(s)
-                    relevant processes
-                    (Posted into Slack chat)
+    Due date: March 28th
+    Deliverable(s): 1. References to code snippets
+                    2. tutorial(s)
+                    3. relevant processes
+                    4. script 200 sample data to get basic knowledge of variables
+                    5. EDA of the sample data to decide the final variables for scraping
+                    (Discussion posted into Slack chat and summarize in a google doc)
 
-Objective: Scrape for data
+Objective: Scrape for data with size of 3000+ samples
     Person / People Assigned:
-    Due date: May 6th
-    Deliverable(s): script that is able to scrape from iMDB for:
+    Due date: April 10th
+    Deliverable(s): 1. script that is able to scrape from iMDB.com (or through api of omdbapi.com) for:
                         budget
                         gross profit
                         rating
@@ -21,30 +23,30 @@ Objective: Scrape for data
                         description
                         review(s)
                         main actor(s)
-                        etc:
-                    script that is able to scrape from Facebook for:
+                        etc.
+                    2. script that is able to scrape from Facebook.com for:
                         director's likes
                         movie page's likes
                         actor(s)'s likes
-                    cript that creates a data frame with the scraped data and subsequently converts it to a .csv file
+                    3. script that creates a data frame with the scraped data and subsequently converts it to a .csv file
 
 Objective: Analyze data
-    Person / People Assigned: Arthur
-    Due date: May 6th
-    Deliverable(s): script that is able to analyze sentiments found in written descriptions of the film and reviews
+    Person / People Assigned: Arthur/ Sibo
+    Due date: April 25th
+    Deliverable(s): 1. script that is able to analyze sentiments found in written descriptions of the film and reviews
                         returns if sentiment is overwhelmingly positive or negative
                         if sentiment doesn't match score, mark comment as sarcasm
-                    correlation
-                    regression
+                    2. correlation
+                    3. regression
                         linear regression
                         step-wise regression
                         ANOVA
                         MANOVA
-                    visualisations
+                    4. visualisations
                         regression residual plots
                         heat map
                         scatter plots of relevant factors
-                    causation analysis
+                    5. causation analysis
                         OFAT
                         Principle analysis
 
@@ -55,3 +57,8 @@ Objective: Present data
 
 The final output will be a presentation that displays that the code functions as intended along with the corresponding analysis
 of the scraped factors.
+
+Reaserch questions:
+1. Correlation between the scraped features and movies' success. What feature(s) has the most significant influence on the movie's profit?
+2. Accuracy of the reviews: Are the reviews sarcasm?
+
