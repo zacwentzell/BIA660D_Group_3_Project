@@ -11,7 +11,7 @@ Objective: Research process for project and summarize the result in a google doc
                     (Discussion posted into Slack chat and summarize in a google doc)
 
 Objective: Scrape for data with size of 3000+ samples
-    Person / People Assigned:
+    Person / People Assigned: Sibo(1.);
     Due date: April 10th
     Deliverable(s): 1. script that is able to scrape from iMDB.com (or through api of omdbapi.com) for:
                         budget
@@ -31,7 +31,7 @@ Objective: Scrape for data with size of 3000+ samples
                     3. script that creates a data frame with the scraped data and subsequently converts it to a .csv file
 
 Objective: Analyze data
-    Person / People Assigned: Arthur/ Sibo
+    Person / People Assigned: Arthur/ Sibo (1.)
     Due date: April 25th
     Deliverable(s): 1. script that is able to analyze sentiments found in written descriptions of the film and reviews
                         returns if sentiment is overwhelmingly positive or negative
